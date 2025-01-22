@@ -37,30 +37,11 @@
 
 
 <h4>🖥️ Back-End Development</h4>
-<div style="background-color:#f0f0f0; padding:10px; border-radius:5px; text-align:center;">
-  <h5>Node.js</h5>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-  </a>
-</div>
-<div style="background-color:#f0f0f0; padding:10px; border-radius:5px; text-align:center;">
-  <h5>Express.js</h5>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
-  </a>
-</div>
-<div style="background-color:#f0f0f0; padding:10px; border-radius:5px; text-align:center;">
-  <h5>Laravel</h5>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="50" height="50"/>
-  </a>
-</div>
-<div style="background-color:#f0f0f0; padding:10px; border-radius:5px; text-align:center;">
-  <h5>PHP</h5>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
-  </a>
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=NodeJS)](https://nodejs.org/en)
+[![My Skills](https://skillicons.dev/icons?i=ExpressJS)](https://expressjs.com/)
+[![My Skills](https://skillicons.dev/icons?i=Laravel)](https://laravel.com/)
+[![My Skills](https://skillicons.dev/icons?i=PHP)](https://www.php.net/)
 
 <h4>📦 Databases</h4>
 <div style="background-color:#f0f0f0; padding:10px; border-radius:5px; text-align:center;">
