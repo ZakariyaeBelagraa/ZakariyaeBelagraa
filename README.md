@@ -17,15 +17,21 @@
 ---
 
 ### 📫 Connect With Me:
-<p align="left">
-  <a href="https://linkedin.com/in/zakariyae-belagraa-8231a0260" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakariyae belagraa" height="40" width="40" />
-  </a>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/zakariyae-belagraa-8231a0260)
 
 ---
 
 <h3 align="left">Languages and Tools:</h3>
+
+<h4>💻 Programming Languages</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/en/)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 
 <h4>🌐 Front-End Development</h4>
 
@@ -35,36 +41,36 @@
 [![My Skills](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com/)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
 
-
 <h4>🖥️ Back-End Development</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![My Skills](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com/)
 [![My Skills](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
-[![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+
+<h4>📱 Mobile Development</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
 
 <h4>📦 Databases</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 
-<h4>📱 Mobile Development</h4>
+<h4>☁️ Backend as a Service(BaaS)</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
 [![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
-
-<h4>💻 Programming Languages</h4>
-
-[![My Skills](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/en/)
-[![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![My Skills](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
 
 <h4>🛠️ Tools and Others</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![My Skills](https://skillicons.dev/icons?i=kali)](https://www.kali.org/)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/)
+[![My Skills](https://skillicons.dev/icons?i=ae)](https://en.wikipedia.org/wiki/Adobe_After_Effects)
+[![My Skills](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
+[![My Skills](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/)
+[![My Skills](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/)
+
+
 
 ---
 
