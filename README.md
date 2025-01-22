@@ -9,6 +9,8 @@
 
 ---
 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
 ### 👨‍💻 About Me:
 - 🌱 I’m currently learning **Cyber Security** and participating in CTF challenges.
 - 💡 Always eager to explore new technologies and solve complex problems.
