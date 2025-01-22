@@ -38,10 +38,10 @@
 
 <h4>🖥️ Back-End Development</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=NodeJS)](https://nodejs.org/en)
-[![My Skills](https://skillicons.dev/icons?i=ExpressJS)](https://expressjs.com/)
-[![My Skills](https://skillicons.dev/icons?i=Laravel)](https://laravel.com/)
-[![My Skills](https://skillicons.dev/icons?i=PHP)](https://www.php.net/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+[![My Skills](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com/)
+[![My Skills](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
+[![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 
 <h4>📦 Databases</h4>
 <div style="background-color:#f0f0f0; padding:10px; border-radius:5px; text-align:center;">
