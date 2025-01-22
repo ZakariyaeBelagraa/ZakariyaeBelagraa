@@ -65,7 +65,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![My Skills](https://skillicons.dev/icons?i=kali)](https://www.kali.org/)
-[![My Skills](https://skillicons.dev/icons?i=pandas)](https://pandas.pydata.org/)
 
 ---
 
