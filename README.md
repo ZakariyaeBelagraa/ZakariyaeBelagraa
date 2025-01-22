@@ -69,11 +69,3 @@
 [![My Skills](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
 [![My Skills](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/)
 [![My Skills](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/)
-
-
-
----
-
-<p align="center">
-  🚀 Let's collaborate and build something amazing together! 🚀
-</p>
