@@ -55,31 +55,17 @@
 
 <h4>💻 Programming Languages</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=c)](https://www.php.net/)
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.php.net/)
-[![My Skills](https://skillicons.dev/icons?i=java)](https://www.php.net/)
-[![My Skills](https://skillicons.dev/icons?i=python)](https://www.php.net/)
-[![My Skills](https://skillicons.dev/icons?i=js)](https://www.php.net/)
+[![My Skills](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/en/)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
 
 <h4>🛠️ Tools and Others</h4>
-<div style="background-color:#f0f0f0; padding:10px; border-radius:5px; text-align:center;">
-  <h5>Git</h5>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  </a>
-</div>
-<div style="background-color:#f0f0f0; padding:10px; border-radius:5px; text-align:center;">
-  <h5>Linux</h5>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-  </a>
-</div>
-<div style="background-color:#f0f0f0; padding:10px; border-radius:5px; text-align:center;">
-  <h5>Pandas</h5>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
-  </a>
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![My Skills](https://skillicons.dev/icons?i=kali)](https://www.kali.org/)
+[![My Skills](https://skillicons.dev/icons?i=pandas)](https://pandas.pydata.org/)
 
 ---
 
