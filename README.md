@@ -29,7 +29,11 @@
 
 <h4>🌐 Front-End Development</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![My Skills](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com/)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
 
 
 <h4>🖥️ Back-End Development</h4>
