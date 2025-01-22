@@ -44,44 +44,14 @@
 [![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 
 <h4>📦 Databases</h4>
-<div style="background-color:#f0f0f0; padding:10px; border-radius:5px; text-align:center;">
-  <h5>MySQL</h5>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>
-</div>
-<div style="background-color:#f0f0f0; padding:10px; border-radius:5px; text-align:center;">
-  <h5>MariaDB</h5>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="50" height="50"/>
-  </a>
-</div>
-<div style="background-color:#f0f0f0; padding:10px; border-radius:5px; text-align:center;">
-  <h5>MongoDB</h5>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
-  </a>
-</div>
-<div style="background-color:#f0f0f0; padding:10px; border-radius:5px; text-align:center;">
-  <h5>Oracle</h5>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/>
-  </a>
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 
 <h4>📱 Mobile Development</h4>
-<div style="background-color:#f0f0f0; padding:10px; border-radius:5px; text-align:center;">
-  <h5>Android</h5>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/>
-  </a>
-</div>
-<div style="background-color:#f0f0f0; padding:10px; border-radius:5px; text-align:center;">
-  <h5>Firebase</h5>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
-  </a>
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
+[![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 
 <h4>💻 Programming Languages</h4>
 <div style="background-color:#f0f0f0; padding:10px; border-radius:5px; text-align:center;">
