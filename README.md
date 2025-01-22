@@ -9,8 +9,6 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-
 ### 👨‍💻 About Me:
 - 🌱 I’m currently learning **Cyber Security** and participating in CTF challenges.
 - 💡 Always eager to explore new technologies and solve complex problems.
@@ -30,7 +28,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <h4>🌐 Front-End Development</h4>
-<div style="background-color:#f0f0f0; padding:10px; border-radius:5px; text-align:center;">
+<div style="background-color:#f0f0f0 !important; padding:10px; border-radius:5px; text-align:center;">
   <h5>HTML5</h5>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
