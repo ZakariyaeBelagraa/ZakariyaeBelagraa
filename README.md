@@ -63,7 +63,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 💻 **Languages I Debug In**
-<img src="https://skillicons.dev/icons?i=c,cpp,php,js,java,py&theme=dark" />
+<img src="https://skillicons.dev/icons?i=bash,c,cpp,php,js,java,py&theme=dark" />
 
 *From low-level memory management to high-level abstractions*
 
@@ -191,6 +191,10 @@ fuel_source: "Hatred and the desire to prove people wrong"
   &nbsp;&nbsp;
   <a href="mailto:zakariyablagrae@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"  />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discordapp.com/users/630092581451202562" target="_blank" >
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord"  />
   </a>
 </p>
 
