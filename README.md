@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=00FFAA&width=550&lines=Welcome+to+my+Cyber+Lair!;I+debug+while+eating+RAM+snacks.;Certified+Packet+Sniffer+%F0%9F%90%9D+%F0%9F%94%8D;404+Social+Skills+Not+Found.;Encrypt+first,+ask+questions+later!;Neurospicy+and+firewall-friendly+%F0%9F%94%A5%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=00FFAA&width=450&lines=Welcome+to+my+Cyber+Lair!;I+debug+while+eating+RAM+snacks.;Certified+Packet+Sniffer+%F0%9F%90%9D+%F0%9F%94%8D;404+Social+Skills+Not+Found.;Encrypt+first,+ask+questions+later!;Neurospicy+and+firewall-friendly+%F0%9F%94%A5%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 
