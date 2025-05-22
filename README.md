@@ -12,9 +12,10 @@
 
 </div>
 
+<div align="center">
+
 ## 🎯 Current Status
 
-<div align="center">
 
 | 🔥 Focus Mode | 🧠 Learning | 😈 Spite Level | 🌙 Night Owl Status |
 |:---:|:---:|:---:|:---:|
