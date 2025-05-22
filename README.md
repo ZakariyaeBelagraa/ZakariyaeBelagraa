@@ -184,8 +184,15 @@ fuel_source: "Hatred and the desire to prove people wrong"
 
 ## 🌐 Connect With This Human
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/belagraa-zakariyae/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:zakariyablagrae@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/belagraa-zakariyae/" target="_blank" >
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"  />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:zakariyablagrae@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"  />
+  </a>
+</p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
