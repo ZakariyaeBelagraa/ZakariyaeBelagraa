@@ -1,89 +1,108 @@
-<h1 align="center">👋 Hey there, I'm BELAGRAA Zakariyae</h1>
-<h3 align="center">🧠 Full-Stack Developer | 🛡️ Cybersecurity Explorer | ⚔️ CTF Tactician</h3>
+<div align="center">
+  
+# 👋 Hello World, I'm BELAGRAA Zakariyae
+
+### 🛡️ Cybersecurity Enthusiast | 💻 Full-Stack Developer | 🚩 CTF Conqueror
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+fortress+%F0%9F%8F%B0;Currently+debugging+life+with+coffee+%E2%98%95;Packet+whisperer+and+vulnerability+hunter+%F0%9F%95%B5%EF%B8%8F;Social+engineering+immunity%3A+ENABLED+%F0%9F%9B%A1%EF%B8%8F;If+it+compiles%2C+it+ships!+%F0%9F%9A%A2;Trust+but+verify%2C+then+verify+again+%F0%9F%94%8D" alt="Dynamic Typing" />
+
+---
+
+</div>
+
+## 🎯 Current Mission
+
+```yaml
+status: "Actively hunting bugs and building digital solutions"
+learning: ["Advanced Penetration Testing", "Cloud Security", "Red Team Operations"]
+interests: ["CTF Challenges", "Vulnerability Research", "Secure Code Development"]
+coffee_addiction_level: "Expert (99/100)"
+social_battery: "Currently charging... ⚡"
+```
+
+## 🧠 About This Human
+
+- 🔍 **Perpetual Learner**: Currently diving deep into cybersecurity while maintaining my full-stack development skills
+- 🎯 **CTF Competitor**: When I'm not coding, I'm probably reverse-engineering something or solving cryptographic puzzles
+- 🤖 **Neurodivergent Advantage**: My brain processes patterns differently - perfect for spotting vulnerabilities and edge cases
+- 💡 **Problem Solver**: I see bugs as puzzles waiting to be solved (even when they're in production... oops)
+- 🌙 **Night Owl**: Peak coding hours: 10 PM - 3 AM (when the internet is quiet and my focus is laser-sharp)
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=00FFAA&width=550&lines=Welcome+to+my+Cyber+Hideout...;I+code,+therefore+I+debug.;Running+on+coffee,+logic,+and+stack+traces.;Professional+Packet+Sniffer+%F0%9F%90%9D%F0%9F%94%8D;System.out.println(‘Social+Skills+404’);Firewall+Rules+>+Social+Rules+%F0%9F%94%A5" alt="Typing SVG" />
+
+## 🛠️ Arsenal & Toolkit
+
+### 💻 **Programming Languages**
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,php&theme=dark" />
+
+### 🌐 **Frontend Wizardry**
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwindcss,bootstrap&theme=dark" />
+
+### ⚙️ **Backend Engineering**
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,firebase&theme=dark" />
+
+### 📊 **Database Management**
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+
+### 🔧 **DevOps & Tools**
+<img src="https://skillicons.dev/icons?i=git,kali,ubuntu,androidstudio,maven,npm&theme=dark" />
+
+### 🎨 **Creative Suite**
+<img src="https://skillicons.dev/icons?i=ae&theme=dark" />
+
 </div>
 
 ---
 
-### 👨‍💻 Who Am I?
+<div align="center">
 
-- 🌱 Currently deep-diving into **Cybersecurity**, smashing CTFs, and reverse-engineering my coffee breaks.
-- 🧠 Neurodivergent thinker: I enjoy code, silence, patterns, and weird jokes about packets and ports.
-- 🛠️ Building real-world apps, APIs, bots, and sometimes robot overlords (still ethical… for now).
-- 💬 Ask me about `null pointer exceptions` or `how I socially engineer vending machines`.
-- 🚀 Curious, analytical, and always ready to learn things I’ll obsess over at 3AM.
+## 📊 Battle Stats
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=7&theme=tokyonight"/>
 
-### 📫 Let’s Connect
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/zakariyae-belagraa-8231a0260)
+</div>
 
 ---
 
-### 🧠 Tech Stack I Speak
+## 🏆 Achievement Unlocked
 
-#### 💻 Languages I Debug in:
+```
+🔐 Cybersecurity Skills: ████████████████████░ 95%
+🖥️ Full-Stack Development: ██████████████████░░ 90%
+🧩 Problem Solving: ████████████████████░ 98%
+☕ Coffee Consumption: ██████████████████████ 100%
+🎯 Focus Mode: ███████████████████░░ 85%
+💬 Social Interactions: ████░░░░░░░░░░░░░░░░░ 20%
+```
 
-[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://skillicons.dev/icons?i=cpp)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
-[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+## 🎪 Fun Facts About Me
 
-#### 🌐 Front-End Wizardry:
-
-[![HTML](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
-[![Tailwind](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com/)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
-
-#### 🖥️ Back-End Engineering:
-
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
-[![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
-[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
-
-#### 📱 Mobile App Building:
-
-[![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
-
-#### 💾 Databases & Data Taming:
-
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
-
-#### ☁️ BaaS & Firebase Magic:
-
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
-
-#### 🛠️ Tools I Can’t Live Without:
-
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![Kali Linux](https://skillicons.dev/icons?i=kali)](https://www.kali.org/)
-[![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/)
-[![After Effects](https://skillicons.dev/icons?i=ae)](https://en.wikipedia.org/wiki/Adobe_After_Effects)
-[![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
-[![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/)
-[![npm](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/)
+- 🧩 I collect CTF flags like others collect stamps
+- 🔒 I encrypt my grocery lists (you can never be too careful)
+- 🤓 I debug code in my dreams and sometimes wake up with solutions
+- 🎮 My favorite game is "Find the Security Vulnerability"
+- 📚 I read CVE reports for bedtime stories
+- 🍕 I believe pizza is the ultimate debugging fuel
 
 ---
 
-### 🧩 Fun Facts:
-- My IDE has seen more of me than my friends do.
-- I use dark mode even in daylight (eyes appreciate it).
-- “Works on my machine” – legacy last words.
-- I probably talk to Wireshark more than people.
+<div align="center">
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakariyae-belagraa-8231a0260)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 
 ---
 
-> *“Keep your code clean, your packets encrypted, and your logic bulletproof.”*
+<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
----
+*"In a world full of bugs, be the debugger."* 🐛➡️✨
 
+</div>
